@@ -1,11 +1,11 @@
 # Site settings
 author: Emrich-Michael Perrier
-title: 
+title: My Software Engineering Journey w/ FlatIron School
 header-img: img/home-bg.png
 email: emrichmp@gmail.com
 copyright_name: Emrich-Michael Perrier
 description: > # this means to ignore newlines until "baseurl:"
-  
+  <3
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  emrichmp
